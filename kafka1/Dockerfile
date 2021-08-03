@@ -4,3 +4,4 @@ COPY . /app
 RUN npm install
 EXPOSE 5004
 CMD npm start
+
